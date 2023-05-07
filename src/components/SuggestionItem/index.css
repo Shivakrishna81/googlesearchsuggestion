@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.img {
+  height: 10px;
+  width: 7px;
+}
+.div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+  min-height: 100vh;
+}
+img {
+  height: 40px;
+  width: 180px;
+  margin: 12px;
+}
+.container2 {
+  border-radius: 8px;
+  background-color: #ffffff;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.search-img {
+  height: 10px;
+  width: 7px;
+}
+.container3 {
+  display: flex;
+}
+.input {
+  width: 100%;
+  border: 0;
+  outline: none;
+  margin-left: 10px;
+}
+ul {
+  display: flex;
+  flex-direction: column;
+}
